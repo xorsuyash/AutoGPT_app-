@@ -30,7 +30,10 @@
 
         $ streamlit run app.py 
 
+ You will be directed to web app and now you can create video script for any topic you want 
+
+
 
  
-      
+
      
