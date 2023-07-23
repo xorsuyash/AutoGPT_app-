@@ -30,9 +30,12 @@
 
         $ streamlit run app.py 
 
- You will be directed to web app and now you can create video script for any topic you want 
+ You will be directed to web app and now you can create video script for any topic you want: 
+       
 
 
+
+[www_screencapture_com_2023-7-23_20_59.webm](https://github.com/xorsuyash/AutoGPT_app-/assets/98162846/b6555df0-7caf-4d55-8272-22a1658814c8)
 
  
 
